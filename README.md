@@ -72,4 +72,4 @@ It made the value of causal analysis feel very concrete: if you were designing a
 
 Part 2 takes causal reasoning into a fairness context — asking whether a workplace policy causally discriminates by gender.
 
-→ [Part 2: Counterfactual Fairness in Employee Attrition](https://github.com/yourusername/causal-ai-explorations-02-hiring-fairness)
+→ [Part 2: Counterfactual Fairness in Employee Attrition](https://github.com/dishayayyy/causal-ai-explorations-02-hiring-fairness)
